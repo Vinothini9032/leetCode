@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/Vinothini9032/leetCode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Vinothini9032/leetCode/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
