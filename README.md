@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinothini9032/leetCode/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Vinothini9032/leetCode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
