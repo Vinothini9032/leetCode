@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Vinothini9032/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Vinothini9032/leetCode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinothini9032/leetCode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vinothini9032/leetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
