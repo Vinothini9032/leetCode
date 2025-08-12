@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinothini9032/leetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vinothini9032/leetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vinothini9032/leetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vinothini9032/leetCode/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
 ## Counting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinothini9032/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinothini9032/leetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Vinothini9032/leetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
