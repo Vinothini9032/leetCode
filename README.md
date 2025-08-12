@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinothini9032/leetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vinothini9032/leetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Vinothini9032/leetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vinothini9032/leetCode/tree/master/0119-pascals-triangle-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinothini9032/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Vinothini9032/leetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
