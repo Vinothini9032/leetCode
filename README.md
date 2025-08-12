@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinothini9032/leetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/Vinothini9032/leetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Vinothini9032/leetCode/tree/master/0682-baseball-game) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vinothini9032/leetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
