@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinothini9032/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Vinothini9032/leetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Vinothini9032/leetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinothini9032/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Vinothini9032/leetCode/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/Vinothini9032/leetCode/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
