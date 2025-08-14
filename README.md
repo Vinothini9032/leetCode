@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinothini9032/leetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinothini9032/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Vinothini9032/leetCode/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinothini9032/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinothini9032/leetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Vinothini9032/leetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
