@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vinothini9032/leetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinothini9032/leetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Vinothini9032/leetCode/tree/master/0733-flood-fill) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
