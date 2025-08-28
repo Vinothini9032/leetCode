@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinothini9032/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinothini9032/leetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Vinothini9032/leetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vinothini9032/leetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinothini9032/leetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinothini9032/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting
