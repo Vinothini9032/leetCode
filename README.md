@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vinothini9032/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Vinothini9032/leetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Vinothini9032/leetCode/tree/master/0733-flood-fill) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Vinothini9032/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vinothini9032/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinothini9032/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Vinothini9032/leetCode/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Vinothini9032/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
