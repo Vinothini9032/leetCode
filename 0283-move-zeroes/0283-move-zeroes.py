@@ -5,4 +5,6 @@ class Solution:
             if nums[i]!=0:
                 nums[l],nums[i]=nums[i],nums[l]
                 l+=1
-        
+               
+       
+
