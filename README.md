@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinothini9032/leetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinothini9032/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vinothini9032/leetCode/tree/master/0414-third-maximum-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Vinothini9032/leetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinothini9032/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinothini9032/leetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinothini9032/leetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinothini9032/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vinothini9032/leetCode/tree/master/0414-third-maximum-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Vinothini9032/leetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vinothini9032/leetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Vinothini9032/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vinothini9032/leetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vinothini9032/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vinothini9032/leetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinothini9032/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
