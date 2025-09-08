@@ -4,10 +4,10 @@ class Solution:
         res=None
         for i in nums:
             if count==0:
-               res=i
-            if i==res:
+                res=i
+                count=1
+            elif i==res:
                 count+=1
             else:
                 count-=1
         return res
-        
