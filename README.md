@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vinothini9032/leetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinothini9032/leetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vinothini9032/leetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinothini9032/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinothini9032/leetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Vinothini9032/leetCode/tree/master/0260-single-number-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vinothini9032/leetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Vinothini9032/leetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinothini9032/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Vinothini9032/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vinothini9032/leetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinothini9032/leetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Vinothini9032/leetCode/tree/master/1894-merge-strings-alternately) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vinothini9032/leetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vinothini9032/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vinothini9032/leetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Vinothini9032/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vinothini9032/leetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
